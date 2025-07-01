@@ -13,7 +13,7 @@ This project showcases a fully procedural automata rig of a mechanical dragon de
 
 [Preview](./Preview.jpg)
 
-[Project Breakdown and User Guide](./Houdini_Automata_Breakdown.pdf)
+[Project Breakdown](./Houdini_Automata_Breakdown.pdf)
 
 ▶ Watch the automata demo video: [Download .mp4](./Procedural_Automata_Demo.mp4)
 
